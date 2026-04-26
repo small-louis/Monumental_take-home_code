@@ -31,6 +31,7 @@ macOS / Windows; on some Linux distros you may need `sudo apt install python3-tk
 | `calculations.py` | `Params` dataclass and `compute()` reproducing the equations from the original script |
 | `renderer.py` | Pure matplotlib drawing of the scene — block widths and X offsets are tuned at the top of this file |
 | `app.py` | Tkinter GUI with sliders, input boxes, config toggle, and live readout |
+| `Monumental napkin calcs.xlsx` | Back-of-the-napkin spreadsheet sketching the geometry / reach maths |
 
 ## Notes
 
